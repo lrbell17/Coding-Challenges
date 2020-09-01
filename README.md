@@ -2,4 +2,6 @@
 
 Some coding challenges found on HackerRank and other sources
 
-**Lambda Expression Challenge:** use lambda functions to evaluate if a number is even/odd, prime/composite, or is a plaindrome
+**Lambda Expression Challenge:** https://www.hackerrank.com/challenges/java-lambda-expressions/problem
+
+**Priority Que Challenge:** https://www.hackerrank.com/challenges/java-priority-queue/problem
